@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import Form from "./component/Form";
 import Logo from "./component/Logo";
-import PackingList from "./PackingList";
+import PackingList from "./component/PackingList";
 import Stats from "./component/Stats";
 
 const App = () => {
